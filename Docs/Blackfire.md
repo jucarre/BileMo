@@ -9,7 +9,7 @@ Lien: https://blackfire.io/profiles/70cfd0be-a48b-454b-8117-49fd395f3f70/graph
 Route: /api/login_check 
 
 Exemple:
-` curl -X GET -H "Content-Type: application/json" -d '{  
+` curl -X POST -H "Content-Type: application/json" -d '{  
     "username": "sfr",
     "password": "root"
 }' "https://{hostname}/api/login_check" `
