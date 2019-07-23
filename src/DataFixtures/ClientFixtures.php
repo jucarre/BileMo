@@ -30,6 +30,7 @@ class ClientFixtures extends Fixture
         ;
 
         $manager->persist($client);
+        $this->addReference('client-1' , $client);
 
         $client2 = new Client;
 
@@ -40,10 +41,11 @@ class ClientFixtures extends Fixture
         ;
 
         $manager->persist($client2);
+        $this->addReference('client-2' , $client2);
 
         $client3 = new Client;
 
-        $client2->setUsername('admin')
+        $client3->setUsername('admin')
             ->setEmail('admin@admin.fr')
             ->setPassword($pass)
             ->setRoles(['ROLE_ADMIN'])
@@ -52,5 +54,12 @@ class ClientFixtures extends Fixture
         $manager->persist($client3);
 
         $manager->flush();
+    }
+
+    public function getDependencies()
+    {
+        return array(
+            PhoneFixtures::class,
+        );
     }
 }
