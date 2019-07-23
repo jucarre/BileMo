@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615358b4-782a-456b-9be2-d3615dd5aaa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/BDD.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="552">
-                <caret line="42" column="88" selection-start-line="42" selection-start-column="88" selection-end-line="42" selection-end-column="88" />
+              <first_editor relative-caret-position="180">
+                <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,8 +63,8 @@
         <option value="$PROJECT_DIR$/src/DataFixtures/UserFixtures.php" />
         <option value="$PROJECT_DIR$/src/DataFixtures/ClientFixtures.php" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/Docs/Blackfire.md" />
         <option value="$PROJECT_DIR$/Docs/BDD.sql" />
+        <option value="$PROJECT_DIR$/Docs/Blackfire.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -196,8 +193,7 @@
             <path>
               <item name="bilemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="bilemo" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="jwt" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bilemo" type="b2602c69:ProjectViewProjectNode" />
@@ -265,12 +261,12 @@
       <workItem from="1563199324835" duration="2192000" />
       <workItem from="1563284883577" duration="3175000" />
       <workItem from="1563796587849" duration="2226000" />
-      <workItem from="1563878295356" duration="8850000" />
+      <workItem from="1563878295356" duration="9178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45218000" />
+    <option name="totallyTimeSpent" value="45546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,16 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/Blackfire.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="317">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://PHP//Users/julien/Desktop/BureauProjet/bilemo/src/Entity">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -553,11 +539,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/Blackfire.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="552">
-            <caret line="42" column="88" selection-start-line="42" selection-start-column="88" selection-end-line="42" selection-end-column="88" />
+          <first_editor relative-caret-position="180">
+            <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>

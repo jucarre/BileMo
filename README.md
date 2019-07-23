@@ -12,7 +12,7 @@ Ce projet est réalisé avec [API Platform](https://api-platform.com/)
 
 ## Installation
 
-1. Copier le Repository
+1. Copiez le Repository
 
         git clone https://github.com/jucarre/BileMo.git
 
