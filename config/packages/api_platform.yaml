@@ -4,5 +4,19 @@ api_platform:
     swagger:
         api_keys:
             apiKey:
-                name: Authorization
-                type: header
+             name: Authorization
+             type: header
+    # The title of the API.
+    title: 'Bilemo'
+
+    collection:
+        order: 'DESC'
+
+    http_cache:
+        etag: true
+        max_age: 0
+        shared_max_age: 3600
+        vary: ['Content-Type', 'Authorization']
+        public: true
+        invalidation:
+          enabled: true

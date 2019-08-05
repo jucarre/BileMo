@@ -14,7 +14,7 @@ class UserFixtures extends Fixture
         $faker = new Factory;
         $faker = $faker->create('fr_FR');
 
-        for ($c = 1; $c < mt_rand(100, 250); $c++) {
+        for ($c = 1; $c < mt_rand(500, 650); $c++) {
             $user = new User;
             $user->setName($faker->lastName().$c)
                 ->setClient($this->getReference('client-'.mt_rand(1,2)));

@@ -1,34 +1,36 @@
 ## Blackfire :
 
-##### Test de l'api avec Blackfire
+##### API test with Blackfire
 
-Route: /api 
 
-Lien: https://blackfire.io/profiles/70cfd0be-a48b-454b-8117-49fd395f3f70/graph
+Route: /api/login_check (I generate the token to do my tests)
 
-Route: /api/login_check 
-
-Exemple:
+Example:
 ` curl -X POST -H "Content-Type: application/json" -d '{  
     "username": "sfr",
     "password": "root"
 }' "https://{hostname}/api/login_check" `
 
-Route: /api/phones
+Route: /api/phones (20 ms gap)
 
-Exemple:
+Example:
 `curl -X GET -H "Authorization: Bearer Votre_Token" -i -H "Accept: application/json" -H "Content-Type: application/json" "https://{hostname}/api/phones"`
 
-Lien: https://blackfire.io/profiles/b3f57e6a-37ca-42f8-a8ba-46a4156278e6/graph
+Link no-cache: https://blackfire.io/profiles/6487611c-d591-44b8-b360-608b73563a97/graph
 
-Route: POST /api/users
+Link with-cache: https://blackfire.io/profiles/400ca112-0fde-4b6f-a45c-70e1e46da5af/graph
 
-Exemple:
+Route: POST /api/users (60ms gap)
+
+Example:
 `curl -X POST -H "Authorization: Bearer Votre_Token" -i -H "Content-Type: application/json" -d '{  
                                     "name": "nom_de_l_utilisateur",
                                     "client": "/api/clients/{id_clients}"
                                 }' "https://{hostname}/api/users"`
                                 
-Lien: https://blackfire.io/profiles/109828c1-25fa-4a70-ab15-f79006d57cb9/graph    
+
+Link no-cache: https://blackfire.io/profiles/61af5f18-332a-4d0a-9d9a-092ec57a4c08/graph
+
+Link with-cache: https://blackfire.io/profiles/d58f94ef-a542-4d3e-a19a-3d7f06ec1513/graph
 
 
