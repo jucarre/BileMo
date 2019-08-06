@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="615358b4-782a-456b-9be2-d3615dd5aaa7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Blackfire.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Blackfire.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/api_platform.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/api_platform.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataFixtures/UserFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/UserFixtures.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +182,8 @@
       <workItem from="1564495728796" duration="2187000" />
       <workItem from="1564650777926" duration="13000" />
       <workItem from="1564650806493" duration="5268000" />
-      <workItem from="1565010164497" duration="762000" />
+      <workItem from="1565010164497" duration="1008000" />
+      <workItem from="1565082732114" duration="737000" />
     </task>
     <servers />
   </component>
