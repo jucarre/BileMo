@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="615358b4-782a-456b-9be2-d3615dd5aaa7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -197,6 +200,9 @@
       <workItem from="1566813140016" duration="27000" />
       <workItem from="1566813194028" duration="27000" />
       <workItem from="1566813237645" duration="1161000" />
+      <workItem from="1566906493779" duration="14000" />
+      <workItem from="1566906526148" duration="374000" />
+      <workItem from="1566908023144" duration="551000" />
     </task>
     <servers />
   </component>
