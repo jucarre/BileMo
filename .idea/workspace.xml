@@ -150,6 +150,16 @@
       </list>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -183,7 +193,10 @@
       <workItem from="1564650777926" duration="13000" />
       <workItem from="1564650806493" duration="5268000" />
       <workItem from="1565010164497" duration="1008000" />
-      <workItem from="1565082732114" duration="737000" />
+      <workItem from="1565082732114" duration="1669000" />
+      <workItem from="1566813140016" duration="27000" />
+      <workItem from="1566813194028" duration="27000" />
+      <workItem from="1566813237645" duration="1161000" />
     </task>
     <servers />
   </component>
