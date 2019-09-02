@@ -13,9 +13,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ApiResource(
  *     itemOperations={
  *      "get",
- *      "put"={
- *              "access_control"="is_granted('ROLE_USER') "
- *          },
+ *      "put",
  *      "delete"={
  *              "access_control"="is_granted('ROLE_USER')"
  *          }

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615358b4-782a-456b-9be2-d3615dd5aaa7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.vsdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,6 +205,8 @@
       <workItem from="1566906493779" duration="14000" />
       <workItem from="1566906526148" duration="374000" />
       <workItem from="1566908023144" duration="551000" />
+      <workItem from="1566913185514" duration="2725000" />
+      <workItem from="1567434320865" duration="467000" />
     </task>
     <servers />
   </component>
