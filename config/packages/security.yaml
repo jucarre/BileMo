@@ -45,7 +45,7 @@ security:
     access_control:
         - { path: ^/api/login, roles: IS_AUTHENTICATED_ANONYMOUSLY}
         - { path: ^/api/docs, roles: IS_AUTHENTICATED_ANONYMOUSLY }
-        - { path: ^/api/phones, roles: IS_AUTHENTICATED_ANONYMOUSLY , methods: [GET]}
+        - { path: ^/api/phones, roles: [ROLE_USER], methods: [GET]}
         - { path: ^/api/phones, roles: [ROLE_ADMIN], methods: [POST,DELETE,PUT]}
         - { path: ^/api/clients, roles: [ROLE_ADMIN], methods: [GET,POST,DELETE,PUT]}
         - { path: ^/api/users, roles: [ROLE_USER], methods: [GET,POST,DELETE,PUT] }

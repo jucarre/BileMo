@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615358b4-782a-456b-9be2-d3615dd5aaa7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Diagramme de Cas d'utilisation/diagramme de case d'utilisation.vsdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Add User).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Add User).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(DELETE User).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(DELETE User).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Get Phone).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Get Phone).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Get Phones).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Get Phones).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Get User).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Get User).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Get Users).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Get Users).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Login_check).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Diagrammes de séquences/P7-Diagramme de  séqunce(Login_check).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Phone.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Phone.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +134,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -214,6 +209,10 @@
       <workItem from="1568129779055" duration="13000" />
       <workItem from="1568209969590" duration="888000" />
       <workItem from="1568216630551" duration="429000" />
+      <workItem from="1568217913933" duration="485000" />
+      <workItem from="1568289069463" duration="355000" />
+      <workItem from="1568380663826" duration="6915000" />
+      <workItem from="1568393628843" duration="328000" />
     </task>
     <servers />
   </component>

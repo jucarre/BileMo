@@ -11,13 +11,18 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Entity(repositoryClass="App\Repository\PhoneRepository")
  * @ApiResource(
  *     collectionOperations={
- *         "get"
+ *         "get"={
+ *              "access_control"="is_granted('ROLE_USER')"
+ *          }
  *      },
  *     itemOperations={
- *         "get"
+ *         "get"={
+ *              "access_control"="is_granted('ROLE_USER')"
+ *          }
  *     },
  *     attributes={
  *          "pagination_items_per_page"=10,
+ *           "access_control"="is_granted('ROLE_USER')"
  *     },
  * )
  */
